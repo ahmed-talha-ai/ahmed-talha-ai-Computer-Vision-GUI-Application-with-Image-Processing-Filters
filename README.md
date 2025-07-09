@@ -1,0 +1,2 @@
+# ahmed-talha-ai-Computer-Vision-GUI-Application-with-Image-Processing-Filters
+This project is a comprehensive graphical user interface (GUI) application built with Python and CustomTkinter that provides a wide range of computer vision and image processing capabilities. The application allows users to load images and apply various filters and transformations including noise manipulation, morphological operations.
